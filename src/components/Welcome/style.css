@@ -1,0 +1,33 @@
+.c-welcome-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.c-welcome h1 {
+  opacity: 0.8;
+  color: var(--my-red);
+  margin-bottom: 0px;
+}
+
+.c-welcome > h2 {
+  margin: 0;
+  font-size: 16px;
+  opacity: 0.8;
+}
+
+.c-welcome__instruction {
+  margin-top: 32px;
+}
+
+.c-welcome__instruction img {
+  width: 32px;
+  height: 32px;
+  vertical-align: middle;
+  transform: translateY(-2px);
+}
+
+.c-welcome__instruction span {
+  font-size: 20px;
+  margin-left: 16px;
+}

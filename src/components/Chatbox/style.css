@@ -1,0 +1,33 @@
+#c-chatbox-wrapper {
+  height: 100%;
+}
+
+#c-chatbox-wrapper .Message.right .Bubble {
+  background: var(--my-primary-color);
+  border-radius: 26px;
+  border-top-right-radius: 0;
+  padding: 6px 18px;
+  padding-bottom: 8px;
+  color: white;
+}
+
+#c-chatbox-wrapper .Message.left .Bubble {
+  background: var(--gray-6);
+  border-radius: 26px;
+  border-top-left-radius: 0;
+  padding: 6px 18px;
+  padding-bottom: 8px;
+}
+
+#c-chatbox-wrapper .Btn--primary:not(.Btn--outline) {
+  background: var(--my-primary-color);
+}
+
+.ChatApp {
+  background: white;
+}
+
+.Navbar {
+  background: var(--gray-7);
+  border-bottom: none;
+}

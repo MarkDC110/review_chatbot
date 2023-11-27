@@ -1,0 +1,20 @@
+[
+  {
+    "_id": 1,
+    "name": "Tư vấn bán hàng",
+    "description": "Tư vấn chọn mua laptop",
+    "avatar": "/images/bot-icon-1.png"
+  },
+  {
+    "_id": 2,
+    "name": "Trò chuyện thường nhật",
+    "description": "Trò chuyện với chatbot",
+    "avatar": "/images/bot-icon-3.png"
+  },
+  {
+    "_id": 3,
+    "name": "Tư vấn học tập",
+    "description": "hỗ trợ giải đáp học tập",
+    "avatar": "/images/bot-icon-2.png"
+  }
+]
